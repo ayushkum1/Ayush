@@ -1,20 +1,18 @@
-<p style="background-color: rgb(255, 215, 199);color:white;padding:5px; width: 100%; height: 350px;">
-    <h2 align="left" class="heading2" >
-        AYUSH KUMAR SINGH
-    </h2>
-    <img src="https://img.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148217001.jpg?size=338&ext=jpg" width="200" height="200" title="hover        text">
-    <p align="left" class="paragraph">
-        <b>-Android Studio, Django, Java, XML, Pyhton, C++, C </b>
-    </p>
-    <p align="left" class="paragraph">
-        <b>-Firebase, SQL, AWS</b>
-    </p>
-    <p align="left" class="paragraph">
-        <b>-YouTube, Google Map</b>
-    </p>
+<h2 align="left" class="heading2" >
+    AYUSH KUMAR SINGH
+</h2>
+<img align="right" src="https://img.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148217001.jpg?size=338&ext=jpg" width="200" height="200" title="hover        text">
+<p align="left" class="paragraph">
+    <b>-Android Studio, Django, Java, XML, Pyhton, C++, C </b>
+</p>
+<p align="left" class="paragraph">
+    <b>-Firebase, SQL, AWS</b>
+</p>
+<p align="left" class="paragraph">
+    <b>-YouTube, Google Map</b>
 </p>
 
-<div style="padding:5px">
+<div style="padding:5px margin-top:100">
     <p>I am a Computer Science Engineer, graduated in 2019. I was not fond of coding much, but after I developed my first app in Android, I started liking it.</p>
     <p>I believe that for any given problem, there definitely exists a solution, we just need to find it! Troubleshooting problems keeps me engaged :D</p>
     <p>Being deadline oriented and output oriented has helped me a lot in finishing my tasks before deadline with right output. Team Work has always been great, I easily mix with people.</p>
