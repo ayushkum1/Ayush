@@ -6,7 +6,7 @@
 <p>I Like to learn new things, be it from a kid or a expert.</p>
 
 <h3>
-    <u>Find me on :earth_asia:</u>  
+    <u>Find me on :earth_asia::</u>  
 </h3>
 <p>
     <ol>
