@@ -1,27 +1,3 @@
-from tomd import tomd
-html="""
-<style>
-    .image{
-        position: absolute;
-        top: 80px;
-        right: 100px;
-    }
-    .paragraph{
-        font-size: 25px;
-        -webkit-text-fill-color: grey;
-        margin-left: 100px;
-    }
-    .heading2{
-        font-size: 50px;
-        -webkit-text-fill-color: black;
-        margin-left: 100px;
-    }
-    .heading3{
-        font-size: 25px;
-        -webkit-text-fill-color: black;
-        margin-left: 20px;
-    }
-</style>
 <div style="background-color: rgb(255, 215, 199);color:white;padding:5px; width: 100%; height: 350px;">
     <h2 align="left" class="heading2" >
         AYUSH KUMAR SINGH
@@ -35,7 +11,7 @@ html="""
     <p align="left" class="paragraph">
         <b>-YouTube, Google Map</b>
     </p>
-    <p class="image">
+    <p align="right">
       <img src="https://img.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148217001.jpg?size=338&ext=jpg" width="200" height="200" title="hover text">
     </p>
 </div>
@@ -60,5 +36,3 @@ html="""
         </ol>
     </p>
 </div>
-"""
-Tomd(html).markdown
