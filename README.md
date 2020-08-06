@@ -1,7 +1,7 @@
 <h2 align="left" class="heading2" >
     AYUSH KUMAR SINGH
 </h2>
-<img align="right" src="https://img.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148217001.jpg?size=338&ext=jpg" width="200" height="200" title="hover        text">
+<img src="https://i.postimg.cc/PxD1zgjp/Screenshot-from-2020-08-06-21-03-25.png" width="100%" height="300" title="Ayush Kumar Singh">
 <p align="left" class="paragraph">
     <b>-Android Studio, Django, Java, XML, Pyhton, C++, C </b>
 </p>
