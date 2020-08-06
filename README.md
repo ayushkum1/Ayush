@@ -12,14 +12,14 @@
     <b>-YouTube, Google Map</b>
 </p>
 
-<div style="padding:5px margin-top:100">
+<div style="padding:5px margin-top:100px">
     <p>I am a Computer Science Engineer, graduated in 2019. I was not fond of coding much, but after I developed my first app in Android, I started liking it.</p>
     <p>I believe that for any given problem, there definitely exists a solution, we just need to find it! Troubleshooting problems keeps me engaged :D</p>
     <p>Being deadline oriented and output oriented has helped me a lot in finishing my tasks before deadline with right output. Team Work has always been great, I easily mix with people.</p>
     <p>Like to learn new things, be it from a kid or a expert.</p>
 </div>
 
-<div style="padding:5px">
+<div style="padding:5px margin-top:100px">
     <h3 class="heading3">
         <u>Find me on :</u> 
     </h3>
