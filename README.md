@@ -26,7 +26,7 @@
       fetcher: Flatdoc.github('ayushkum1/Ayush/ayush-github.html')
     });
   </script>
-
+<body role="flatdoc">
 <div style="background-color: rgb(255, 215, 199);color:white;padding:5px; width: 100%; height: 350px;">
     <h2 align="left" class="heading2" >
         AYUSH KUMAR SINGH
@@ -65,3 +65,4 @@
         </ol>
     </p>
 </div>
+</body>
