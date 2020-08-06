@@ -2,6 +2,7 @@
     <h2 align="left" class="heading2" >
         AYUSH KUMAR SINGH
     </h2>
+    <img src="https://img.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148217001.jpg?size=338&ext=jpg" width="200" height="200" title="hover        text">
     <p align="left" class="paragraph">
         <b>-Android Studio, Django, Java, XML, Pyhton, C++, C </b>
     </p>
@@ -10,9 +11,6 @@
     </p>
     <p align="left" class="paragraph">
         <b>-YouTube, Google Map</b>
-    </p>
-    <p align="right">
-      <img src="https://img.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148217001.jpg?size=338&ext=jpg" width="200" height="200" title="hover text">
     </p>
 </div>
 
