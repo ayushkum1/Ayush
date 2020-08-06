@@ -1,14 +1,12 @@
 <h2 align="left" >
-    AYUSH KUMAR SINGH
+    AYUSH :sunglasses:
 </h2>
 <img src="https://i.postimg.cc/PxD1zgjp/Screenshot-from-2020-08-06-21-03-25.png" width="100%" height="300" title="Ayush Kumar Singh">
-<p>I am a Computer Science Engineer, graduated in 2019. I was not fond of coding much, but after I developed my first app in Android, I started liking it.</p>
-<p>I believe that for any given problem, there definitely exists a solution, we just need to find it! Troubleshooting problems keeps me engaged :D</p>
-<p>Being deadline oriented and output oriented has helped me a lot in finishing my tasks before deadline with right output. Team Work has always been great, I easily mix with people.</p>
-<p>Like to learn new things, be it from a kid or a expert.</p>
+<p style="font-size:18">I am a Computer Science Engineer, graduated in 2019. I was not fond of coding much, but after I developed my first app in Android, I started liking it. I believe that for any given problem, there definitely exists a solution, we just need to find it! Troubleshooting problems keeps me engaged :grimacing: Being deadline oriented and output oriented has helped me a lot in finishing my tasks before deadline with right output. Team Work has always been great, I easily mix with people.</p>
+<p>I Like to learn new things, be it from a kid or a expert.</p>
 
 <h3>
-    <u>Find me on :</u> :earth_asia:+1 
+    <u>Find me on :earth_asia:</u>  
 </h3>
 <p>
     <ol>
