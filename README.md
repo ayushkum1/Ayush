@@ -1,8 +1,8 @@
-<div style="background-color: rgb(255, 215, 199);color:white;padding:5px; width: 100%; height: 350px;">
-    <h2 align="left" class="heading2" >
+<p style="color:red">
+    <h1 style="font-size:50px;" >
         AYUSH KUMAR SINGH
-    </h2>
-    <img src="https://img.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148217001.jpg?size=338&ext=jpg" width="200" height="200" title="hover        text">
+    </h1>
+    <img align="right" src="https://img.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148217001.jpg?size=338&ext=jpg" width="200" height="200"        title="hover        text">
     <p align="left" class="paragraph">
         <b>-Android Studio, Django, Java, XML, Pyhton, C++, C </b>
     </p>
@@ -12,7 +12,7 @@
     <p align="left" class="paragraph">
         <b>-YouTube, Google Map</b>
     </p>
-</div>
+</p>
 
 <div style="padding:5px">
     <p>I am a Computer Science Engineer, graduated in 2019. I was not fond of coding much, but after I developed my first app in Android, I started liking it.</p>
