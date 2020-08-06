@@ -28,7 +28,7 @@
     <h2 align="left" class="heading2" >
         AYUSH KUMAR SINGH
     </h2>
-
+    <p>ayush</p>
     <p align="left" class="paragraph">
         <b>-Android Studio, Django, Java, XML, Pyhton, C++, C </b>
     </p>
